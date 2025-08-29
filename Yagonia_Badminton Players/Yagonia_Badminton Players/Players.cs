@@ -15,7 +15,7 @@ namespace Yagonia_Badminton_Players
         //Generic Method to Display
         public void DisplayInfo()
         {
-            name = "lin Dan";
+            name = "Lin Dan";
             from = "China";
             titles = "Olympic gold medals (2008, 2012), 5 World Championship titles\n6 All England Open titles";
 
